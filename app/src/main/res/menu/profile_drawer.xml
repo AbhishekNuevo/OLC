@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/earn_coins"
+            android:title="@string/profile_earn_coins" />
+        <item
+            android:id="@+id/invite_friends"
+            android:title="@string/profile_invite_friends" />
+        <item
+            android:id="@+id/privacy"
+            android:title="@string/profile_privacy" />
+        <item
+            android:id="@+id/notification"
+            android:title="@string/profile_notification" />
+
+        <item
+            android:id="@+id/message"
+            android:title="@string/profile_message" />
+
+        <item
+            android:id="@+id/account_settings"
+            android:title="@string/profile_account_setting" />
+        <item
+            android:id="@+id/help_us"
+            android:title="@string/profile_help_us" />
+        <item
+            android:id="@+id/term_condition"
+            android:title="@string/profile_term_condition" />
+        <item
+            android:id="@+id/logout"
+            android:title="@string/profile_logout" />
+    </group>
+
+
+</menu>
